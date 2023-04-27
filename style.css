@@ -1,0 +1,53 @@
+fieldset{
+    background-color: #F5EDDC;
+    width: 50px;
+    border-radius: 1pc;
+    border-color: #8B1874;
+    font-weight: bolder;
+    
+}
+.button{
+    padding: 5px 10px;
+    font-size: medium;
+    font-family: 'PT Serif', serif;
+    color: #8B1874;
+    font-weight: bold;
+    background-color: #B270A2;
+    border-radius: 3pc;
+    
+       
+    
+
+}
+body{
+    font-family: 'PT Serif', serif, ;
+    color: #8B1874;
+}
+legend{
+    font-size: large;
+    font-weight: bold;
+    color: #000000;
+}
+.email1{
+    border-radius: 3pc;
+    background-color: #F5EDDC;
+    border-color: #8B1874;
+}
+.text{
+    border-radius: 3pc;
+    background-color: #F5EDDC;
+    border-color: #8B1874;
+}
+.radio{
+    accent-color: #8B1874;
+    
+}
+.checkbox{
+    accent-color: #8B1874;
+}
+textarea{
+    border-radius: 1pc;
+    background-color: #F5EDDC;
+    border-color: #8B1874;
+   
+}
